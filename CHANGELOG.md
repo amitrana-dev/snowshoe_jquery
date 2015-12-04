@@ -1,3 +1,7 @@
+## 0.3.0
+* Allow dynamic minimum point detection limit
+* Fix unprovided messages object bug
+
 ## 0.2.1
 * Better support for Android Chrome touch events
 
