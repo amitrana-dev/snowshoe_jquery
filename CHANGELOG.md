@@ -1,6 +1,7 @@
 ## 0.3.0
 * Allow dynamic minimum point detection limit
 * Fix unprovided messages object bug
+* Upgraded stamp recognition animation
 
 ## 0.2.1
 * Better support for Android Chrome touch events
